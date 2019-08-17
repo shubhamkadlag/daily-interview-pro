@@ -1,2 +1,3 @@
 # daily-interview-pro
-Solutions in Java for programming interview problems https://www.techseries.dev/daily
+Description 
+Solutions in Java for Daily Interview Pro by https://www.techseries.dev/daily
