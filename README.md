@@ -1,3 +1,5 @@
 # daily-interview-pro
 Description 
-Solutions in Java for Daily Interview Pro by https://www.techseries.dev/daily
+Solutions for Daily Interview Pro by the Tech Lead
+Subscribe Daily Interview Pro for free below :
+https://www.techseries.dev/daily
