@@ -6,7 +6,7 @@ Subscribe Daily Interview Pro for free below :
 
 https://www.techseries.dev/daily
 
-Most of the solutions are tested on LeetCode. LeetCode link to the problem is also provided.
+Solutions are tested on LeetCode. LeetCode link to the problem is also provided.
 
 | Problem and Solution | Solve it yourself |
 | --- | --- |
