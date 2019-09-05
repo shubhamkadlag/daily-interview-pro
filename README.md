@@ -6,7 +6,7 @@ Subscribe Daily Interview Pro for free below :
 
 https://www.techseries.dev/daily
 
-Solutions are tested on LeetCode. LeetCode link to the problem is also provided.
+Solutions are tested on LeetCode. I would want you to try to solve the problem yourself before looking at solution. For the same reason, LeetCode link to the problem is also provided.
 
 | Sr no | Problem and Solution | Solve it yourself |
 | --- | --- | --- |
